@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->**
-__Information Science Graduate | Technology Enthusiast | Data & Analytics__
+I work at the intersection of Information Science, technology, data, and intelligent systems, with a focus on building and applying technology to solve complex, real-world problems. My work spans data analytics, database systems, business intelligence, software development, and information systems, combining technical execution with a strong understanding of how information is structured, managed, analysed, and transformed into actionable insight.
 
-I'm an Information Science student with a strong interest in how technology, information, data, and intelligent systems can be used to solve real-world problems. My journey combines Information Science, data analytics, databases, business intelligence, and emerging technologies. I enjoy building practical solutions, analysing data, learning new technologies, and continuously expanding my technical capabilities.I'm particularly interested in the intersection between information and technology — from turning raw data into meaningful insights to developing systems that make information more accessible, useful, and actionable.
+I build practical, data-driven solutions and continuously explore emerging technologies that improve how organisations capture, manage, analyse, and leverage information. My interests include data analytics, intelligent systems, digital transformation, information architecture, and technology-driven decision-making.
