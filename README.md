@@ -2,14 +2,14 @@
 
 ### Information Science professional specializing in Data Analytics, Business Intelligence, SQL, Python, Power BI, and data-driven solutions.
 
-- I'm currently working on **Information Science professional specializing in Data Analytics & BI, using Python, SQL, Power BI, Excel & PostgreSQL to transform complex data into actionable insights and decisions.
-**
+### I'm currently working on **Data Analytics & Business Intelligence projects, using Python, SQL, Power BI, Excel, and PostgreSQL to transform complex data into actionable insights and support data-driven decisions.
 
-- I'm looking to collaborate on **Data analytics projects, business intelligence solutions, open-source data initiatives, and real-world projects involving Python, SQL, Power BI, and data-driven decision-making.**
+### I'm looking to collaborate on **Data Analytics projects, Business Intelligence solutions, open-source data initiatives, and real-world projects involving Python, SQL, Power BI, and data-driven decision-making.
 
-- Ask me about **Data Analytics, Business Intelligence, SQL, Python, Power BI, Excel, PostgreSQL, data visualization, forecasting, and turning complex datasets into actionable insights.**
+### Ask me about: Data Analytics, Business Intelligence, SQL, Python, Power BI, Excel, PostgreSQL, Data Visualization, Forecasting, and Exploratory Data Analysis.
 
-- Fun fact **I enjoy finding patterns in data that aren't immediately obvious—and turning them into insights that actually tell a story.**
+### Fun fact: I enjoy uncovering patterns hidden in data and turning them into insights that tell a meaningful story.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
