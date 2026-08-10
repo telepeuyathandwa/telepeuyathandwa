@@ -6,14 +6,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=telepeuyathandwa" alt="telepeuyathandwa" /></a> </p>
 
-- 🔭 I'm currently working on **Information Science professional specializing in Data Analytics & BI, using Python, SQL, Power BI, Excel & PostgreSQL to transform complex data into actionable insights and decisions.
+- I'm currently working on **Information Science professional specializing in Data Analytics & BI, using Python, SQL, Power BI, Excel & PostgreSQL to transform complex data into actionable insights and decisions.
 **
 
-- 👯 I'm looking to collaborate on **Data analytics projects, business intelligence solutions, open-source data initiatives, and real-world projects involving Python, SQL, Power BI, and data-driven decision-making.**
+- I'm looking to collaborate on **Data analytics projects, business intelligence solutions, open-source data initiatives, and real-world projects involving Python, SQL, Power BI, and data-driven decision-making.**
 
-- 💬 Ask me about **Data Analytics, Business Intelligence, SQL, Python, Power BI, Excel, PostgreSQL, data visualization, forecasting, and turning complex datasets into actionable insights.**
+- Ask me about **Data Analytics, Business Intelligence, SQL, Python, Power BI, Excel, PostgreSQL, data visualization, forecasting, and turning complex datasets into actionable insights.**
 
-- ⚡ Fun fact **I enjoy finding patterns in data that aren't immediately obvious—and turning them into insights that actually tell a story.**
+- Fun fact **I enjoy finding patterns in data that aren't immediately obvious—and turning them into insights that actually tell a story.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
