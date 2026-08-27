@@ -1,4 +1,4 @@
-# Hi 👋, I'm Telepe Uyathandwa
+# Hi 👋, I'm Uyathandwa
 
 ### Information Science professional specializing in Data Analytics, Business Intelligence, SQL, Python, Power BI, and data-driven solutions.
 
