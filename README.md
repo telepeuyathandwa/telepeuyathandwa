@@ -18,19 +18,17 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-# `01 / SYSTEM PROFILE`
+# 01 / SYSTEM PROFILE
 
 > **Information Science student focused on Data Analytics and Business Intelligence.**
 
-I build practical data solutions that move from **raw data → cleaning → analysis → databases → dashboards → insight**.
+I build practical data solutions that move from raw data → cleaning → analysis → databases → dashboards → insight.
 
-My focus is not simply producing charts.
-
-It's understanding the data, finding the signal, and presenting it in a way that can support better decisions.
+My focus is not simply producing charts. It's understanding the data, finding the signal, and presenting it in a way that can support better decisions.
 
 ---
 
-# `02 / CORE STACK`
+# 02 / CORE STACK
 
 ### ANALYTICS
 
@@ -58,144 +56,155 @@ It's understanding the data, finding the signal, and presenting it in a way that
 
 ---
 
-# `03 / DATA PIPELINE`
+# 03 / DATA PIPELINE
 
 <div align="center">
 
-```text
-             ┌─────────────────┐
-             │    RAW DATA     │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │ PYTHON / PANDAS │
-             │ CLEAN + EXPLORE │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │   POSTGRESQL    │
-             │  STORE + QUERY  │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │    POWER BI     │
-             │ MODEL + VISUALS │
-             └────────┬────────┘
-                      │
-                      ▼
-             ┌─────────────────┐
-             │    INSIGHTS     │
-             │    DECISIONS    │
-             └─────────────────┘
+**RAW DATA** → **PYTHON / PANDAS** → **POSTGRESQL** → **POWER BI** → **INSIGHTS**
+
+Cleaning · Exploration · Storage · Modelling · Visualisation · Decisions
+
 </div>
-04 / FEATURED PROJECT
-<div align="center"><a href="https://github.com/telepeuyathandwa/online-food-delivery-analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=telepeuyathandwa&repo=online-food-delivery-analysis&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00DFD8&icon_color=0066FF&text_color=ffffff" /> </a></div>
-Online Food Delivery Intelligence
-A complete analytics pipeline built from raw customer data.
 
-The project investigates online food-ordering behaviour using demographic, socioeconomic, educational, geographic and customer-related variables.
+---
 
-Pipeline
+# 04 / FEATURED PROJECT
 
-text
-CSV → Python → Pandas → Data Cleaning & Exploration → PostgreSQL → Railway → Power BI → Interactive Business Intelligence
-Dataset
-
-Metric	Value
-Customers analysed	388
-Variables	13
-Database	PostgreSQL
-Cloud platform	Railway
-BI platform	Power BI
-Questions explored
-
-Who orders food online most frequently?
-
-How does income relate to ordering behaviour?
-
-Which demographic groups show stronger adoption?
-
-What patterns exist across customer characteristics?
-
-What insights can be transformed into actionable business intelligence?
-
-Stack
-
-Python Pandas PostgreSQL Railway ODBC Power BI
-
-05 / WHAT I BUILD
-DATA ANALYSIS
-
-text
-├── Data cleaning
-├── Exploratory analysis
-├── Statistical summaries
-└── Business insights
-BUSINESS INTELLIGENCE
-
-text
-├── Power BI dashboards
-├── Data modelling
-├── DAX
-├── Power Query
-└── KPI development
-DATA ENGINEERING
-
-text
-├── SQL
-├── PostgreSQL
-├── Data pipelines
-├── API / data integration
-└── Cloud databases
-06 / CURRENT DIRECTION
 <div align="center">
-BUILDING
+
+<a href="https://github.com/telepeuyathandwa/online-food-delivery-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=telepeuyathandwa&repo=online-food-delivery-analysis&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00DFD8&icon_color=0066FF&text_color=ffffff" />
+</a>
+
+</div>
+
+### Online Food Delivery Intelligence
+
+A complete analytics pipeline built from raw customer data. The project investigates online food-ordering behaviour using demographic, socioeconomic, educational, geographic and customer-related variables.
+
+**Pipeline**
+
+CSV → Python → Pandas → Data Cleaning & Exploration → PostgreSQL → Railway → Power BI → Interactive Business Intelligence
+
+**Dataset**
+
+- Customers analysed: **388**
+- Variables: **13**
+- Database: **PostgreSQL**
+- Cloud platform: **Railway**
+- BI platform: **Power BI**
+
+**Questions explored**
+
+- Who orders food online most frequently?
+- How does income relate to ordering behaviour?
+- Which demographic groups show stronger adoption?
+- What patterns exist across customer characteristics?
+- What insights can be transformed into actionable business intelligence?
+
+**Stack**
+
+`Python` `Pandas` `PostgreSQL` `Railway` `ODBC` `Power BI`
+
+---
+
+# 05 / WHAT I BUILD
+
+**DATA ANALYSIS**
+
+- Data cleaning
+- Exploratory analysis
+- Statistical summaries
+- Business insights
+
+**BUSINESS INTELLIGENCE**
+
+- Power BI dashboards
+- Data modelling
+- DAX
+- Power Query
+- KPI development
+
+**DATA ENGINEERING**
+
+- SQL
+- PostgreSQL
+- Data pipelines
+- API / data integration
+- Cloud databases
+
+---
+
+# 06 / CURRENT DIRECTION
+
+<div align="center">
+
+**BUILDING**
 
 Analytics projects that demonstrate real-world business problems
 
-LEARNING
+**LEARNING**
 
 Advanced Power BI • DAX • Microsoft Fabric • Data Engineering
 
-TARGET
+**TARGET**
 
 Data Analyst • BI Analyst • Business Analyst • Information Science
 
 </div>
-07 / CERTIFICATIONS & LEARNING
-Area	Technology / Certification
-Data Analytics	SAP Certified Data Analyst
-Business Intelligence	Power BI
-Data Platform	Microsoft Fabric
-Data Science	HP Data Science & Analytics
-Generative AI	WeThinkCode GenAI
-Cybersecurity	Cisco Cybersecurity
-Blockchain	ABSA Blockchain
-08 / PROJECT PHILOSOPHY
-<div align="center">
-DATA IS NOT THE FINISH LINE.
-INSIGHT IS.
 
-COLLECT → CLEAN → ANALYSE → MODEL → VISUALISE → DECIDE
+---
+
+# 07 / CERTIFICATIONS & LEARNING
+
+- **Data Analytics** — SAP Certified Data Analyst
+- **Business Intelligence** — Power BI
+- **Data Platform** — Microsoft Fabric
+- **Data Science** — HP Data Science & Analytics
+- **Generative AI** — WeThinkCode GenAI
+- **Cybersecurity** — Cisco Cybersecurity
+- **Blockchain** — ABSA Blockchain
+
+---
+
+# 08 / PROJECT PHILOSOPHY
+
+<div align="center">
+
+### DATA IS NOT THE FINISH LINE.
+### INSIGHT IS.
+
+**COLLECT → CLEAN → ANALYSE → MODEL → VISUALISE → DECIDE**
 
 </div>
-09 / CONNECT
+
+---
+
+# 09 / CONNECT
+
 I'm interested in collaborating on:
 
-Data analytics projects
+- Data analytics projects
+- Business intelligence solutions
+- Data visualisation
+- Open-source projects
+- Practical data engineering
+- Analytics-focused applications
 
-Business intelligence solutions
+<div align="center">
 
-Data visualisation
+<a href="https://github.com/telepeuyathandwa">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-Open-source projects
+</div>
 
-Practical data engineering
+<br/>
 
-Analytics-focused applications
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<div align="center"><a href="https://github.com/telepeuyathandwa"> <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /> </a></div>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:0066FF,30:00DFD8,70:111827,100:050505&height=170&section=footer&text=BUILD.%20ANALYSE.%20DELIVER.&fontSize=30&fontColor=ffffff&animation=twinkling" /></div> 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0066FF,30:00DFD8,70:111827,100:050505&height=170&section=footer&text=BUILD.%20ANALYSE.%20DELIVER.&fontSize=30&fontColor=ffffff&animation=twinkling" />
+
+</div>
