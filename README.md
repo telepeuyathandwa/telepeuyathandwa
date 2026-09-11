@@ -1,134 +1,201 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,30:7928CA,70:00DFD8,100:00C2FF&height=280&section=header&text=TELEPE%20UYATHANDWA&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=情報科学%20%7C%20DATA%20ANALYST%20%7C%20BI%20SPECIALIST&descAlignY=65&descSize=16" />
-
-<a href="https://github.com/telepeuyathandwa">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=00DFD8&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Data+is+my+medium.+Insight+is+my+craft.;I+turn+chaos+into+clarity.;Welcome+to+my+domain." />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,35:111827,70:00DFD8,100:0066FF&height=280&section=header&text=TELEPE%20UYATHANDWA&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=DATA%20ANALYST%20%E2%80%A2%20BI%20%E2%80%A2%20INFORMATION%20SCIENCE&descAlignY=62&descSize=16&descColor=00DFD8" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=telepeuyathandwa&label=VISITORS&color=FF0080&style=for-the-badge" />
-<img src="https://img.shields.io/badge/ROLE-DATA%20ANALYST-00DFD8?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/FOCUS-BI%20%26%20ANALYTICS-7928CA?style=for-the-badge&labelColor=0d1117" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=00DFD8&center=true&vCenter=true&width=850&height=60&lines=RAW+DATA+%E2%86%92+STRUCTURED+INTELLIGENCE;PYTHON+%E2%80%A2+SQL+%E2%80%A2+POWER+BI+%E2%80%A2+POSTGRESQL;I+TURN+MESSY+DATA+INTO+DECISIONS." />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=telepeuyathandwa&label=PROFILE%20VIEWS&color=00DFD8&style=for-the-badge" />
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-00DFD8?style=for-the-badge&labelColor=050505" />
+<img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-0066FF?style=for-the-badge&labelColor=050505" />
 
 </div>
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 『 PROLOGUE 』
+# `01 / SYSTEM PROFILE`
 
-> *"In a world drowning in data, one analyst rose to find the signal in the noise. Armed with Python, SQL, and an unshakable curiosity — he turned raw chaos into stories that move decisions."*
+> **Information Science student focused on Data Analytics and Business Intelligence.**
 
----
+I build practical data solutions that move from **raw data → cleaning → analysis → databases → dashboards → insight**.
 
-### 『 CHARACTER SHEET 』
+My focus is not simply producing charts.
 
-**NAME** » Telepe Uyathandwa
-**CLASS** » Data Analyst
-**ORIGIN** » South Africa
-**GUILD** » Information Science
-**ALIGNMENT** » Lawful Insightful
+It's understanding the data, finding the signal, and presenting it in a way that can support better decisions.
 
 ---
 
-### 『 WHAT I DO 』
+# `02 / CORE STACK`
 
-- Build end-to-end data pipelines — from raw CSV to cloud database to interactive dashboard
-- Turn messy datasets into clean, queryable, decision-ready structures
-- Design BI dashboards that tell stories, not just display numbers
-- Open to collaboration on data analytics, BI solutions, and open-source initiatives
-
----
-
-### 『 WEAPONS & SKILLS 』
-
-**⚔️ Core Arsenal**
+### ANALYTICS
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**🔮 Data Sorcery**
-
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**🗄️ Vaults of Knowledge**
+### DATABASES
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**📊 Instruments of Insight**
+### BUSINESS INTELLIGENCE
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### ENGINEERING & TOOLS
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-### 『 LEGENDARY QUEST 』
+# `03 / DATA PIPELINE`
 
 <div align="center">
 
-<a href="https://github.com/telepeuyathandwa/online-food-delivery-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=telepeuyathandwa&repo=online-food-delivery-analysis&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00DFD8&icon_color=FF0080&text_color=ffffff" />
-</a>
-
+```text
+             ┌─────────────────┐
+             │    RAW DATA     │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ PYTHON / PANDAS │
+             │ CLEAN + EXPLORE │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │   POSTGRESQL    │
+             │  STORE + QUERY  │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │    POWER BI     │
+             │ MODEL + VISUALS │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │    INSIGHTS     │
+             │    DECISIONS    │
+             └─────────────────┘
 </div>
+04 / FEATURED PROJECT
+<div align="center"><a href="https://github.com/telepeuyathandwa/online-food-delivery-analysis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=telepeuyathandwa&repo=online-food-delivery-analysis&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00DFD8&icon_color=0066FF&text_color=ffffff" /> </a></div>
+Online Food Delivery Intelligence
+A complete analytics pipeline built from raw customer data.
 
-**⚔️ Online Food Delivery Analysis — Rank: S**
+The project investigates online food-ordering behaviour using demographic, socioeconomic, educational, geographic and customer-related variables.
 
-A full pipeline forged from raw CSV chaos. Through Python cleaning, into a cloud PostgreSQL vault on Railway, and out as an interactive Power BI dashboard. 388 souls analysed across Bangalore — their demographics, income, and hunger patterns laid bare.
+Pipeline
 
-`Python` `pandas` `PostgreSQL` `Railway` `ODBC` `Power BI`
+text
+CSV → Python → Pandas → Data Cleaning & Exploration → PostgreSQL → Railway → Power BI → Interactive Business Intelligence
+Dataset
 
----
+Metric	Value
+Customers analysed	388
+Variables	13
+Database	PostgreSQL
+Cloud platform	Railway
+BI platform	Power BI
+Questions explored
 
-### 『 DOMAINS I COMMAND 』
+Who orders food online most frequently?
 
-| Domain | Mastery |
-|:---:|:---:|
-| Data Analytics | ★★★★★ |
-| Visualization | ★★★★★ |
-| Forecasting | ★★★★☆ |
-| Engineering | ★★★★☆ |
-| Storytelling | ★★★★★ |
+How does income relate to ordering behaviour?
 
----
+Which demographic groups show stronger adoption?
 
-### 『 CREED 』
+What patterns exist across customer characteristics?
 
+What insights can be transformed into actionable business intelligence?
+
+Stack
+
+Python Pandas PostgreSQL Railway ODBC Power BI
+
+05 / WHAT I BUILD
+DATA ANALYSIS
+
+text
+├── Data cleaning
+├── Exploratory analysis
+├── Statistical summaries
+└── Business insights
+BUSINESS INTELLIGENCE
+
+text
+├── Power BI dashboards
+├── Data modelling
+├── DAX
+├── Power Query
+└── KPI development
+DATA ENGINEERING
+
+text
+├── SQL
+├── PostgreSQL
+├── Data pipelines
+├── API / data integration
+└── Cloud databases
+06 / CURRENT DIRECTION
 <div align="center">
+BUILDING
 
-### 「 データなくして、意見に過ぎない 」
+Analytics projects that demonstrate real-world business problems
 
-### *"Without data, you're just another person with an opinion."*
+LEARNING
 
-### — **W. Edwards Deming**
+Advanced Power BI • DAX • Microsoft Fabric • Data Engineering
+
+TARGET
+
+Data Analyst • BI Analyst • Business Analyst • Information Science
 
 </div>
-
----
-
-### 『 SUMMON ME 』
-
-If you seek a collaborator for data quests, BI campaigns, or open-source raids — send a signal through GitHub issues or open a discussion.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
+07 / CERTIFICATIONS & LEARNING
+Area	Technology / Certification
+Data Analytics	SAP Certified Data Analyst
+Business Intelligence	Power BI
+Data Platform	Microsoft Fabric
+Data Science	HP Data Science & Analytics
+Generative AI	WeThinkCode GenAI
+Cybersecurity	Cisco Cybersecurity
+Blockchain	ABSA Blockchain
+08 / PROJECT PHILOSOPHY
 <div align="center">
+DATA IS NOT THE FINISH LINE.
+INSIGHT IS.
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C2FF,30:00DFD8,70:7928CA,100:FF0080&height=180&section=footer&text=TO%20BE%20CONTINUED...&fontSize=30&fontColor=ffffff&animation=twinkling" />
+COLLECT → CLEAN → ANALYSE → MODEL → VISUALISE → DECIDE
 
 </div>
+09 / CONNECT
+I'm interested in collaborating on:
+
+Data analytics projects
+
+Business intelligence solutions
+
+Data visualisation
+
+Open-source projects
+
+Practical data engineering
+
+Analytics-focused applications
+
+<div align="center"><a href="https://github.com/telepeuyathandwa"> <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /> </a></div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=0:0066FF,30:00DFD8,70:111827,100:050505&height=170&section=footer&text=BUILD.%20ANALYSE.%20DELIVER.&fontSize=30&fontColor=ffffff&animation=twinkling" /></div> 
