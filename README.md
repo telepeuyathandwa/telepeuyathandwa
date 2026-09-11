@@ -1,3 +1,41 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,25:1a1a2e,50:16213e,75:00DFD8,100:FF0080&height=320&section=header&text=TELEPE%20UYATHANDWA&fontSize=76&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%20%7C%20DATA%20ANALYST%20%7C%20BI%20SPECIALIST&descAlignY=64&descSize=16&descColor=00DFD8" />
+
+<a href="https://github.com/telepeuyathandwa">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=700&color=00DFD8&center=true&vCenter=true&multiline=true&width=950&height=110&lines=RAW+DATA+%E2%86%92+STRUCTURED+INTELLIGENCE;PYTHON+%E2%80%A2+SQL+%E2%80%A2+POWER+BI+%E2%80%A2+POSTGRESQL;I+TURN+MESSY+DATA+INTO+DECISIONS.;BUILD.+ANALYSE.+DELIVER." />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=telepeuyathandwa&label=SOULS%20THAT%20ENTERED&color=00DFD8&style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00DFD8?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/CLASS-DATA%20ANALYST-FF0080?style=for-the-badge&labelColor=0a0a0a&logo=databricks&logoColor=white" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+# 01 / 自己紹介 / SYSTEM PROFILE
+
+<table>
+<tr>
+<td valign="top" width="45%">
+
+### 『 CHARACTER CARD 』
+
+**NAME** · Telepe Uyathandwa
+**CLASS** · Data Analyst
+**ORIGIN** · South Africa
+**GUILD** · Information Science
+**ALIGNMENT** · Lawful Insightful
+**WEAPON** · Python · SQL · Power BI
+
+</td>
+<td valign="top" width="55%">
+
+### 『 STATS 』
+
 
 </td>
 </tr>
