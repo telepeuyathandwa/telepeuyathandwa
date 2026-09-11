@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,30:7928CA,70:00DFD8,100:00C2FF&height=280&section=header&text=UYATHANDWA&fontSize=100&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=情報科学%20%7C%20DATA%20ANALYST%20%7C%20BI%20SPECIALIST&descAlignY=65&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,30:7928CA,70:00DFD8,100:00C2FF&height=280&section=header&text=TELEPE%20UYATHANDWA&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=情報科学%20%7C%20DATA%20ANALYST%20%7C%20BI%20SPECIALIST&descAlignY=65&descSize=16" />
 
 <a href="https://github.com/telepeuyathandwa">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=00DFD8&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Data+is+my+chakra.+Insight+is+my+blade.;I+turn+chaos+into+clarity.;Welcome+to+my+domain." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=600&color=00DFD8&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Data+is+my+medium.+Insight+is+my+craft.;I+turn+chaos+into+clarity.;Welcome+to+my+domain." />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=telepeuyathandwa&label=SOULS%20THAT%20ENTERED&color=FF0080&style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-AWAKENED-00DFD8?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/CLASS-DATA%20SAGE-7928CA?style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=telepeuyathandwa&label=VISITORS&color=FF0080&style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROLE-DATA%20ANALYST-00DFD8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FOCUS-BI%20%26%20ANALYTICS-7928CA?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -24,19 +24,20 @@
 
 ### 『 CHARACTER SHEET 』
 
-**NAME** » Uyathandwa
-**CLASS** » Data Sage
+**NAME** » Telepe Uyathandwa
+**CLASS** » Data Analyst
 **ORIGIN** » South Africa
 **GUILD** » Information Science
 **ALIGNMENT** » Lawful Insightful
 
 ---
 
-### 『 ARC — CURRENTLY 』
+### 『 WHAT I DO 』
 
-- **I. TRAINING** — Mastering advanced DAX, data engineering, and predictive modeling
-- **II. BUILDING** — End-to-end pipelines, BI dashboards, real-world analytics
-- **III. SEEKING** — Collaborators for open-source data quests and impactful projects
+- Build end-to-end data pipelines — from raw CSV to cloud database to interactive dashboard
+- Turn messy datasets into clean, queryable, decision-ready structures
+- Design BI dashboards that tell stories, not just display numbers
+- Open to collaboration on data analytics, BI solutions, and open-source initiatives
 
 ---
 
@@ -123,7 +124,6 @@ A full pipeline forged from raw CSV chaos. Through Python cleaning, into a cloud
 ### 『 SUMMON ME 』
 
 If you seek a collaborator for data quests, BI campaigns, or open-source raids — send a signal through GitHub issues or open a discussion.
-
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
