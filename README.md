@@ -174,8 +174,28 @@ Data analyst based in South Africa, focused on turning messy real-world data int
 </div>
 
 ---
+# 09. 質問 / DON'T SEE IT?
 
-# 09. 接続 / CONNECT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
+
+<div align="center">
+
+Looking for a tool, skill, or stack that isn't listed above?
+
+If you don't see it, there's a good chance I've worked with it — or I'll pick it up fast.
+
+**Just ask.**
+
+<br/>
+
+<a href="https://github.com/telepeuyathandwa">
+<img src="https://img.shields.io/badge/ASK%20ME%20ANYTHING-FF0080?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+
+# 10. 接続 / CONNECT
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
 
