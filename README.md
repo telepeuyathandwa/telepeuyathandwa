@@ -1,53 +1,15 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,35:111827,70:00DFD8,100:0066FF&height=300&section=header&text=TELEPE%20UYATHANDWA&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=DATA%20ANALYST%20%E2%80%A2%20BI%20%E2%80%A2%20INFORMATION%20SCIENCE&descAlignY=65&descSize=16&descColor=00DFD8" />
-
-<a href="https://github.com/telepeuyathandwa">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=700&color=00DFD8&center=true&vCenter=true&multiline=true&width=900&height=110&lines=RAW+DATA+%E2%86%92+STRUCTURED+INTELLIGENCE;PYTHON+%E2%80%A2+SQL+%E2%80%A2+POWER+BI+%E2%80%A2+POSTGRESQL;I+TURN+MESSY+DATA+INTO+DECISIONS.;BUILD.+ANALYSE.+DELIVER." />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=telepeuyathandwa&label=PROFILE%20VIEWS&color=00DFD8&style=for-the-badge" />
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-00DFD8?style=for-the-badge&labelColor=050505&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/BUSINESS%20INTELLIGENCE-0066FF?style=for-the-badge&labelColor=050505&logo=powerbi&logoColor=white" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-# 01 / SYSTEM PROFILE
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Identity
-
-**NAME** · Telepe Uyathandwa
-**ROLE** · Data Analyst
-**ORIGIN** · South Africa
-**GUILD** · Information Science
-**FOCUS** · BI · Analytics · Pipelines
-
-</td>
-<td valign="top" width="50%">
-
-### Mission
-
-Information Science student focused on Data Analytics and Business Intelligence.
-
-I build solutions that move from raw data → cleaning → analysis → databases → dashboards → insight.
-
-Understanding the data, finding the signal, presenting decisions.
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
-# 02 / CORE STACK
+> *In a world drowning in data, one analyst rose to find the signal in the noise.*
+
+---
+
+# 02 / 武器 / CORE STACK
 
 <div align="center">
 
@@ -77,13 +39,13 @@ Understanding the data, finding the signal, presenting decisions.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-# 03 / DATA PIPELINE
+# 03 / 修行の道 / DATA PIPELINE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:0066FF&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
 
 <br/>
 
@@ -93,112 +55,37 @@ Understanding the data, finding the signal, presenting decisions.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0066FF,100:00DFD8&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00DFD8&height=3&width=100%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-# 04 / FEATURED PROJECT
-
-<div align="center">
-
-<a href="https://github.com/telepeuyathandwa/online-food-delivery-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=telepeuyathandwa&repo=online-food-delivery-analysis&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00DFD8&icon_color=0066FF&text_color=ffffff" />
-</a>
-
-</div>
-
-### Online Food Delivery Intelligence
-
-A complete analytics pipeline built from raw customer data. The project investigates online food-ordering behaviour using demographic, socioeconomic, educational, geographic and customer-related variables.
-
-**Pipeline**
-
-`CSV → Python → Pandas → Data Cleaning & Exploration → PostgreSQL → Railway → Power BI → Interactive BI`
-
-**Dataset**
-
-- Customers analysed · **388**
-- Variables · **13**
-- Database · **PostgreSQL**
-- Cloud platform · **Railway**
-- BI platform · **Power BI**
-
-**Questions explored**
-
-- Who orders food online most frequently?
-- How does income relate to ordering behaviour?
-- Which demographic groups show stronger adoption?
-- What patterns exist across customer characteristics?
-- What insights can be transformed into actionable business intelligence?
-
-**Stack**
-
-`Python` `Pandas` `PostgreSQL` `Railway` `ODBC` `Power BI`
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-# 05 / WHAT I BUILD
+# 04 / 任務記録 / MISSION LOG
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**DATA ANALYSIS**
+### 『 01 』
 
-- Data cleaning
-- Exploratory analysis
-- Statistical summaries
-- Business insights
+**MISSION**
 
-</td>
-<td valign="top" width="33%">
-
-**BUSINESS INTELLIGENCE**
-
-- Power BI dashboards
-- Data modelling
-- DAX
-- Power Query
-- KPI development
+Build end-to-end data pipelines that solve real business problems
 
 </td>
 <td valign="top" width="33%">
 
-**DATA ENGINEERING**
+### 『 02 』
 
-- SQL
-- PostgreSQL
-- Data pipelines
-- API integration
-- Cloud databases
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-# 06 / CURRENT DIRECTION
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**BUILDING**
-
-Analytics projects that demonstrate real-world business problems
-
-</td>
-<td valign="top" width="33%">
-
-**LEARNING**
+**TRAINING**
 
 Advanced Power BI · DAX · Microsoft Fabric · Data Engineering
 
 </td>
 <td valign="top" width="33%">
+
+### 『 03 』
 
 **TARGET**
 
@@ -208,28 +95,67 @@ Data Analyst · BI Analyst · Business Analyst · Information Science
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-# 07 / CERTIFICATIONS & LEARNING
+# 05 / 技 / SIGNATURE MOVES
 
 <table>
-<tr><td><b>Area</b></td><td><b>Certification</b></td></tr>
-<tr><td>Data Analytics</td><td>SAP Certified Data Analyst</td></tr>
-<tr><td>Business Intelligence</td><td>Power BI</td></tr>
-<tr><td>Data Platform</td><td>Microsoft Fabric</td></tr>
-<tr><td>Data Science</td><td>HP Data Science & Analytics</td></tr>
-<tr><td>Generative AI</td><td>WeThinkCode GenAI</td></tr>
-<tr><td>Cybersecurity</td><td>Cisco Cybersecurity</td></tr>
-<tr><td>Blockchain</td><td>ABSA Blockchain</td></tr>
+<tr>
+<td valign="top" width="33%">
+
+### ⚔️ PYTHON SLASH
+
+**Type:** Data Wrangling
+**Effect:** Cleans chaotic CSVs into structured, analysis-ready datasets
+
+</td>
+<td valign="top" width="33%">
+
+### ⚔️ SQL STRIKE
+
+**Type:** Query Combat
+**Effect:** Extracts precision insights from relational databases
+
+</td>
+<td valign="top" width="33%">
+
+### ⚔️ POWER BI BURST
+
+**Type:** Visual Technique
+**Effect:** Transforms raw numbers into stories decision-makers can act on
+
+</td>
+</tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-# 08 / PROJECT PHILOSOPHY
+# 06 / 知識解放 / KNOWLEDGE UNLOCKED
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:0066FF&height=3&width=100%" />
+**UNLOCKED**
+
+- SAP Certified Data Analyst
+- Power BI
+- Microsoft Fabric
+- HP Data Science & Analytics
+
+**IN PROGRESS**
+
+- WeThinkCode GenAI
+- Cisco Cybersecurity
+- ABSA Blockchain
+
+</div>
+
+---
+
+# 07 / 哲学 / PHILOSOPHY
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
 
 <br/>
 
@@ -243,19 +169,51 @@ Data Analyst · BI Analyst · Business Analyst · Information Science
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0066FF,100:00DFD8&height=3&width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00DFD8&height=3&width=100%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-# 09 / CONNECT
+# 08 / 誓い / PERSONAL CREED
 
 <div align="center">
 
-I'm interested in collaborating on:
+> ### "I came for the charts.
+> ### I stayed for the chaos in the data —
+> ### and the clarity I bring out of it."
 
-Data analytics projects · Business intelligence solutions · Data visualisation · Open-source projects · Practical data engineering · Analytics-focused applications
+<br/>
+
+**「 データは混沌、洞察は光 」**
+
+*Data is chaos. Insight is light.*
+
+</div>
+
+---
+
+# 09 / 今 / CURRENTLY WATCHING
+
+<div align="center">
+
+📺 **Anime** — always mid-season on something
+🎧 **Music** — the real productivity tool
+😴 **Sleeping** — an underrated data science skill
+
+<br/>
+
+*Currently building in public. Currently resting in private.*
+
+</div>
+
+---
+
+# 10 / 接続 / CONNECT
+
+<div align="center">
+
+Interested in collaborating on data analytics, BI solutions, visualisation, and open-source projects.
 
 <br/><br/>
 
@@ -267,8 +225,10 @@ Data analytics projects · Business intelligence solutions · Data visualisation
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0066FF,30:00DFD8,70:111827,100:050505&height=180&section=footer&text=BUILD.%20ANALYSE.%20DELIVER.&fontSize=30&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,25:00DFD8,50:16213e,75:1a1a2e,100:0a0a0a&height=200&section=footer&text=TO%20BE%20CONTINUED...&fontSize=36&fontColor=ffffff&animation=twinkling" />
 
 </div>
