@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Uyathandwa;Information+Science+Professional;Data+Analytics+%26+BI+Specialist;Turning+data+into+stories+that+matter" />
 </a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=telepeuyathandwa&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
+
 </div>
 
 ---
