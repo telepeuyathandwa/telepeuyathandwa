@@ -15,7 +15,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-# 01 / 自己紹介 / ABOUT
+# 01. 自己紹介 / ABOUT
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
 
 Data analyst based in South Africa, focused on turning messy real-world data into insights people can act on. I like the full pipeline — cleaning, modelling, and dashboards that tell a clear story, not just pretty charts.
 
@@ -26,7 +28,9 @@ Data analyst based in South Africa, focused on turning messy real-world data int
 
 ---
 
-# 02 / 武器 / TECH STACK
+# 02. 武器 / TECH STACK
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
 
 <div align="center">
 
@@ -57,70 +61,64 @@ Data analyst based in South Africa, focused on turning messy real-world data int
 
 ---
 
-# 03 / 修行の道 / DATA PIPELINE
-
-<div align="center">
+# 03. 修行の道 / DATA PIPELINE
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
 
-<br/>
+<div align="center">
 
 **RAW DATA** → **PYTHON / PANDAS** → **POSTGRESQL** → **POWER BI** → **INSIGHTS**
 
 <sub>Cleaning · Exploration · Storage · Modelling · Visualisation · Decisions</sub>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00DFD8&height=3&width=100%" />
-
 </div>
-
-### 『 FEATURED BUILD — Online Food Delivery Intelligence 』
-
-<div align="center">
-
-<a href="https://github.com/telepeuyathandwa/online-food-delivery-analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=telepeuyathandwa&repo=online-food-delivery-analysis&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00DFD8&icon_color=FF0080&text_color=ffffff" />
-</a>
-
-</div>
-
-> A complete analytics pipeline built from raw customer data — investigating online food-ordering behaviour across demographic, socioeconomic, educational, geographic and customer variables.
-
-**DATASET**
-
-> **Customers analysed** · 388
-> **Variables** · 13
-> **Database** · PostgreSQL on Railway
-> **BI Platform** · Power BI
-
-**KEY QUESTIONS**
-
-> Who orders food online most frequently?
-> How does income relate to ordering behaviour?
-> Which demographic groups show stronger digital adoption?
-> What patterns emerge across customer characteristics?
 
 ---
 
-# 04 / 知識解放 / KNOWLEDGE UNLOCKED
-
-**UNLOCKED**
-
-> SAP Certified Data Analyst,
-> PL-300T00 Power BI,
-> DP-600T00 Microsoft Fabric,
-> HP Data Science & Analytics
-
----
-
-# 05 / 哲学 / PHILOSOPHY
-
-<div align="center">
+# 04. 任務記録 / MISSION LOG
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
 
-<br/>
+### 『 01 』 MISSION
+
+> Build end-to-end data pipelines that solve real business problems
+
+### 『 02 』 TRAINING
+
+> Advanced Power BI · DAX · Microsoft Fabric · Data Engineering
+
+### 『 03 』 TARGET
+
+> Data Analyst · BI Analyst · Business Analyst · Information Science
+
+---
+
+# 05. 技 / SIGNATURE MOVES
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
+
+### PYTHON SLASH
+
+> **Type** · Data Wrangling
+> **Effect** · Cleans chaotic CSVs into structured, analysis-ready datasets
+
+### SQL STRIKE
+
+> **Type** · Query Combat
+> **Effect** · Extracts precision insights from relational databases
+
+### POWER BI BURST
+
+> **Type** · Visual Technique
+> **Effect** · Transforms raw numbers into stories decision-makers can act on
+
+---
+
+# 06. 哲学 / PHILOSOPHY
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
+
+<div align="center">
 
 ### DATA IS NOT THE FINISH LINE.
 
@@ -130,15 +128,33 @@ Data analyst based in South Africa, focused on turning messy real-world data int
 
 **COLLECT → CLEAN → ANALYSE → MODEL → VISUALISE → DECIDE**
 
+</div>
+
+---
+
+# 07. 誓い / PERSONAL CREED
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
+
+<div align="center">
+
+> ### "I came for the charts.
+> ### I stayed for the chaos in the data —
+> ### and the clarity I bring out of it."
+
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:00DFD8&height=3&width=100%" />
+**「 データは混沌、洞察は光 」**
+
+*Data is chaos. Insight is light.*
 
 </div>
 
 ---
 
-# 06 / 今 / CURRENTLY
+# 08. 今 / CURRENTLY
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
 
 <div align="center">
 
@@ -150,7 +166,9 @@ Data analyst based in South Africa, focused on turning messy real-world data int
 
 ---
 
-# 07 / 接続 / CONNECT
+# 09. 接続 / CONNECT
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00DFD8,100:FF0080&height=3&width=100%" />
 
 <div align="center">
 
