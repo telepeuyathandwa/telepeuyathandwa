@@ -9,8 +9,8 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=telepeuyathandwa&label=SOULS%20THAT%20ENTERED&color=00DFD8&style=for-the-badge" />
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00DFD8?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=white" />
-<img src="https://img.shields.io/badge/CLASS-DATA%20ANALYST-FF0080?style=for-the-badge&labelColor=0a0a0a&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00DFD8?style=for-the-badge&labelColor=0a0a0a" />
+<img src="https://img.shields.io/badge/CLASS-DATA%20ANALYST-FF0080?style=for-the-badge&labelColor=0a0a0a" />
 
 </div>
 
@@ -18,33 +18,23 @@
 
 # 01 / 自己紹介 / SYSTEM PROFILE
 
-<table>
-<tr>
-<td valign="top" width="45%">
+> **NAME** · Telepe Uyathandwa
+> **CLASS** · Data Analyst
+> **ORIGIN** · South Africa
+> **GUILD** · Information Science
+> **ALIGNMENT** · Lawful Insightful
+> **WEAPON** · Python · SQL · Power BI
 
-### 『 CHARACTER CARD 』
+<br/>
 
-**NAME** · Telepe Uyathandwa
-**CLASS** · Data Analyst
-**ORIGIN** · South Africa
-**GUILD** · Information Science
-**ALIGNMENT** · Lawful Insightful
-**WEAPON** · Python · SQL · Power BI
+**STATS**
 
-</td>
-<td valign="top" width="55%">
-
-### 『 STATS 』
-ANALYSIS ████████████████░░░░ 85
-PYTHON ███████████████░░░░░ 80
-SQL ██████████████░░░░░░ 75
-POWER BI ████████████████░░░░ 85
-VISUALIZATION █████████████████░░░ 90
-STORYTELLING █████████████████░░░ 90
-
-</td>
-</tr>
-</table>
+![Analysis](https://progress-bar.dev/85/?title=Analysis&width=400&color=00DFD8)
+![Python](https://progress-bar.dev/80/?title=Python&width=400&color=00DFD8)
+![SQL](https://progress-bar.dev/75/?title=SQL&width=400&color=00DFD8)
+![Power BI](https://progress-bar.dev/85/?title=Power%20BI&width=400&color=00DFD8)
+![Visualization](https://progress-bar.dev/90/?title=Visualization&width=400&color=FF0080)
+![Storytelling](https://progress-bar.dev/90/?title=Storytelling&width=400&color=FF0080)
 
 <br/>
 
@@ -102,95 +92,94 @@ STORYTELLING █████████████████░░░ 90
 
 </div>
 
+<br/>
+
+### 『 FEATURED BUILD — Online Food Delivery Intelligence 』
+
+<div align="center">
+
+<a href="https://github.com/telepeuyathandwa/online-food-delivery-analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=telepeuyathandwa&repo=online-food-delivery-analysis&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00DFD8&icon_color=FF0080&text_color=ffffff" />
+</a>
+
+</div>
+
+> A complete analytics pipeline built from raw customer data — investigating online food-ordering behaviour across demographic, socioeconomic, educational, geographic and customer variables.
+
+**PIPELINE**
+
+`CSV → Python → Pandas → Data Cleaning → PostgreSQL → Railway → Power BI → Interactive BI`
+
+**DATASET**
+
+> **Customers analysed** · 388
+> **Variables** · 13
+> **Database** · PostgreSQL
+> **Cloud** · Railway
+> **BI Platform** · Power BI
+
+**QUESTIONS EXPLORED**
+
+> Who orders food online most frequently?
+> How does income relate to ordering behaviour?
+> Which demographic groups show stronger adoption?
+> What patterns exist across customer characteristics?
+
+**STACK**
+
+`Python` `Pandas` `PostgreSQL` `Railway` `ODBC` `Power BI`
+
 ---
 
 # 04 / 任務記録 / MISSION LOG
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### 『 01 』 MISSION
 
-### 『 01 』
+> Build end-to-end data pipelines that solve real business problems
 
-**MISSION**
+### 『 02 』 TRAINING
 
-Build end-to-end data pipelines that solve real business problems
+> Advanced Power BI · DAX · Microsoft Fabric · Data Engineering
 
-</td>
-<td valign="top" width="33%">
+### 『 03 』 TARGET
 
-### 『 02 』
-
-**TRAINING**
-
-Advanced Power BI · DAX · Microsoft Fabric · Data Engineering
-
-</td>
-<td valign="top" width="33%">
-
-### 『 03 』
-
-**TARGET**
-
-Data Analyst · BI Analyst · Business Analyst · Information Science
-
-</td>
-</tr>
-</table>
+> Data Analyst · BI Analyst · Business Analyst · Information Science
 
 ---
 
 # 05 / 技 / SIGNATURE MOVES
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### PYTHON SLASH
 
-### ⚔️ PYTHON SLASH
+> **Type** · Data Wrangling
+> **Effect** · Cleans chaotic CSVs into structured, analysis-ready datasets
 
-**Type:** Data Wrangling
-**Effect:** Cleans chaotic CSVs into structured, analysis-ready datasets
+### SQL STRIKE
 
-</td>
-<td valign="top" width="33%">
+> **Type** · Query Combat
+> **Effect** · Extracts precision insights from relational databases
 
-### ⚔️ SQL STRIKE
+### POWER BI BURST
 
-**Type:** Query Combat
-**Effect:** Extracts precision insights from relational databases
-
-</td>
-<td valign="top" width="33%">
-
-### ⚔️ POWER BI BURST
-
-**Type:** Visual Technique
-**Effect:** Transforms raw numbers into stories decision-makers can act on
-
-</td>
-</tr>
-</table>
+> **Type** · Visual Technique
+> **Effect** · Transforms raw numbers into stories decision-makers can act on
 
 ---
 
 # 06 / 知識解放 / KNOWLEDGE UNLOCKED
 
-<div align="center">
-
 **UNLOCKED**
 
-- SAP Certified Data Analyst
-- Power BI
-- Microsoft Fabric
-- HP Data Science & Analytics
+> SAP Certified Data Analyst
+> Power BI
+> Microsoft Fabric
+> HP Data Science & Analytics
 
 **IN PROGRESS**
 
-- WeThinkCode GenAI
-- Cisco Cybersecurity
-- ABSA Blockchain
-
-</div>
+> WeThinkCode GenAI
+> Cisco Cybersecurity
+> ABSA Blockchain
 
 ---
 
@@ -236,13 +225,13 @@ Data Analyst · BI Analyst · Business Analyst · Information Science
 
 ---
 
-# 09 / 今 / CURRENTLY WATCHING
+# 09 / 今 / CURRENTLY
 
 <div align="center">
 
-📺 **Anime** — always mid-season on something
-🎧 **Music** — the real productivity tool
-😴 **Sleeping** — an underrated data science skill
+**ANIME** · always mid-season on something
+**MUSIC** · the real productivity tool
+**SLEEP** · an underrated data science skill
 
 <br/>
 
