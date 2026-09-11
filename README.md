@@ -167,7 +167,6 @@ Data analyst based in South Africa, focused on turning messy real-world data int
 
 <div align="center">
 
-**ANIME** · always mid-season on something
 **MUSIC** · the real productivity tool
 **SLEEP** · an underrated data science skill
 
