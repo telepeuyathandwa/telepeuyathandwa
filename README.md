@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=200&section=header&text=Uyathandwa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Python%20%7C%20Power%20BI&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Uyathandwa&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Python%20%7C%20Power%20BI&descAlignY=58&descAlign=50" />
 
 <a href="https://github.com/telepeuyathandwa">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Uyathandwa;Information+Science+Professional;Data+Analytics+%26+BI+Specialist;Turning+data+into+stories+that+matter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Uyathandwa;Information+Science+Professional;Data+Analytics+%26+BI+Specialist;Turning+data+into+stories+that+matter" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=telepeuyathandwa&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
 
 </div>
 
@@ -17,8 +15,16 @@
 - Information Science professional specializing in Data Analytics, Business Intelligence, and data-driven solutions
 - Currently building Data Analytics and BI projects using Python, SQL, Power BI, Excel, and PostgreSQL
 - Open to collaborating on Data Analytics, BI solutions, open-source data initiatives, and real-world projects
-- Ask me about Data Analytics, BI, SQL, Python, Power BI, PostgreSQL, Data Visualization, Forecasting, and EDA
-- Fun fact: I love uncovering patterns hidden in data and turning them into insights that tell a story
+- I love uncovering patterns hidden in data and turning them into insights that tell a story
+
+> "Without data, you're just another person with an opinion."
+> — W. Edwards Deming
+
+---
+
+## Ask Me About
+
+`Data Analytics` · `Business Intelligence` · `SQL` · `Python` · `Power BI` · `PostgreSQL` · `Data Visualization` · `Forecasting` · `Exploratory Data Analysis` · `Excel` · `Dashboards`
 
 ---
 
@@ -54,57 +60,18 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=telepeuyathandwa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telepeuyathandwa&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=telepeuyathandwa&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=telepeuyathandwa&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/telepeuyathandwa/telepeuyathandwa/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## Featured Project
 
 ### [Online Food Delivery Analysis](https://github.com/telepeuyathandwa/online-food-delivery-analysis)
+
 End-to-end data analysis pipeline — Python cleaning, cloud PostgreSQL on Railway, and an interactive Power BI dashboard exploring customer demographics, income, and ordering behaviour across Bangalore.
 
 `Python` `pandas` `PostgreSQL` `Railway` `Power BI` `ODBC`
 
 ---
 
-## Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C2FF&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
