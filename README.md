@@ -112,12 +112,6 @@ Data analyst based in South Africa, focused on turning messy real-world data int
 > Microsoft Fabric
 > HP Data Science & Analytics
 
-**IN PROGRESS**
-
-> WeThinkCode GenAI
-> Cisco Cybersecurity
-> ABSA Blockchain
-
 ---
 
 # 05 / 哲学 / PHILOSOPHY
