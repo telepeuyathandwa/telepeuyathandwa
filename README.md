@@ -107,9 +107,9 @@ Data analyst based in South Africa, focused on turning messy real-world data int
 
 **UNLOCKED**
 
-> SAP Certified Data Analyst
-> Power BI
-> Microsoft Fabric
+> SAP Certified Data Analyst,
+> PL-300T00 Power BI,
+> DP-600T00 Microsoft Fabric,
 > HP Data Science & Analytics
 
 ---
